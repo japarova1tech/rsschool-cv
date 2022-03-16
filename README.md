@@ -1,1 +1,1 @@
-https://GITHUB-USERNAME.github.io/rsschool-cv/ 
+https://japarova1tech.github.io/rsschool-cv/ 
