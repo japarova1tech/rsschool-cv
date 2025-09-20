@@ -17,7 +17,7 @@
 ## My coding skills:
 
 + HTML
-+ CSS, SCSS
++ CSS
 + JavaScript basics
 + Git, Github
 
